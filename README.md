@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  
+# Skills
 
-<!--
-**lmcteam206/lmcteam206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+<b>EXPERIENCED<b>
+ ---
+![](https://github.com/meemknight/photos/blob/master/python.png)
+</br>
+  
+  
+<b>PROFICIENT<b> 
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github.com/meemknight/photos/blob/master/github.png)
+![](https://github.com/meemknight/photos/blob/master/blender.png)
+![](https://github.com/meemknight/photos/blob/master/unity.png)
+</br>
+  
+<b>ENTRY-LEVEL<b>
+---
+![](https://github.com/meemknight/photos/blob/master/linux.png)
+![](https://github.com/meemknight/photos/blob/master/cpp.png)
+![](https://github.com/meemknight/photos/blob/master/c.png)
+![](https://github.com/meemknight/photos/blob/master/opengl.png)
+![](https://github.com/meemknight/photos/blob/master/windows.png)
+![](https://github.com/meemknight/photos/blob/master/visualStudio.png)
+
+  
+</p>
+
+</br>
+
+ 
+  
+
+  
