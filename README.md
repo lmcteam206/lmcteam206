@@ -9,15 +9,7 @@
 ![](https://github.com/meemknight/photos/blob/master/python.png)
 </br>
   
-  
-<b>PROFICIENT<b> 
-  ---
 
-![](https://github.com/meemknight/photos/blob/master/github.png)
-![](https://github.com/meemknight/photos/blob/master/blender.png)
-![](https://github.com/meemknight/photos/blob/master/unity.png)
-</br>
-  
 <b>ENTRY-LEVEL<b>
 ---
 ![](https://github.com/meemknight/photos/blob/master/linux.png)
